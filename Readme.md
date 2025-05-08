@@ -25,7 +25,7 @@ password-manager/
 
 ## Requirements
 
-- Python 3.6+
+- Python 3.11
 - cryptography package
 
 1. Install the required dependencies:
