@@ -1,7 +1,6 @@
 # Secure Password Manager
 
-By : Ibrahim DIkko (201203058)
-     almustapha ahmed (201203033)
+By : Ibrahim DIkko (201203058) & Almustapha Ahmed (201203033)
       
 A simple command-line password manager built with Python that allows you to securely store, retrieve, and manage your passwords.
 
